@@ -1,6 +1,7 @@
 # 📋 Controle de Tarefas
 
 Sistema web desenvolvido para auxiliar no gerenciamento de tarefas de suporte técnico, permitindo cadastrar, editar, excluir e acompanhar atividades por categoria, prioridade e status.
+# 🌐link do Projeto 
 **Link projeto https://cahmuniz.github.io/SistemadeControledeTarefa/**
 
 ## 🚀 Funcionalidades
